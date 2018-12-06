@@ -1,7 +1,7 @@
 //addImage.js
 let smallImg = document.createElement('img');
 
-smallImg.src = require('./images/small.jpg');;
+smallImg.src = require('./images/small.jpg');
 
 document.body.appendChild(smallImg);
 
@@ -11,6 +11,6 @@ bigImg.src = require('./images/big.jpg');
 
 document.body.appendChild(bigImg);
 
-// import './styles/index.css'
+import './styles/index.css'
 
 // import './styles/index.less'

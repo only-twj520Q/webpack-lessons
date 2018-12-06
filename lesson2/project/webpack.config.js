@@ -10,6 +10,19 @@ module.exports = {
   },
   module: {
     rules: [
+      // {
+      //   // 图片格式正则
+      //   test: /\.(png|jpe?g|gif|svg)(\?.*)?$/,
+      //   use: [
+      //     {
+      //       // loader类型
+      //       loader:'file-loader',
+      //       options: {
+      //         outputPath: 'images/'
+      //       }
+      //     }
+      //   ]
+      // },
       {
         test: /\.(png|jpe?g|gif|svg)(\?.*)?$/,
         use: [

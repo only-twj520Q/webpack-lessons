@@ -3,7 +3,7 @@
 ### 小试锋芒
 说了这么多，我们第一件要做的事情就是写代码啦。
 
-* 在上节课的project目录下新增sum.js
+* 在上节课的 project 目录下新增 sum.js
 ![image_1cofdh40gdrp8k41uvq1san292l.png-9.7kB](http://static.zybuluo.com/only-twj520Q/55brzbu5v61g59wvzz0llvlw/image_1cofdh40gdrp8k41uvq1san292l.png)
 
 * 写入以下代码
@@ -55,3 +55,9 @@ array[0]() // -> 3
 ```
 
 * 接下去，我们在浏览器中打开 index.html，如果一切访问都正常，打开控制台可以看到输出3。
+
+**传送门**：[loader](https://github.com/only-twj520Q/webpack-lessons/tree/master/lesson2)
+
+>博客都会先发布在github上。
+如果有错误或者不严谨的地方，请务必给予指正，十分感谢。
+如果喜欢或者有所帮助，欢迎**star**，[github](https://github.com/only-twj520Q/webpack-lessons)。新手需要鼓励，希望大家不要吝啬自己的赞哦，赠人玫瑰，手有余香。
